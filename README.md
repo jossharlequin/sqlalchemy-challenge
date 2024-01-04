@@ -197,3 +197,7 @@ plt.show()
 Close Session
 # Close Session
 session.close()
+
+
+
+Flask Portion, had hosting issues so I couldn't test it, so I do not know if it worked or not. 
